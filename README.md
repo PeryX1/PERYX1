@@ -34,12 +34,3 @@
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
   <img src="https://img.shields.io/badge/Skript-EF4A25?style=for-the-badge&logo=spigotmc&logoColor=white" alt="SkriptLang" />
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=peryx1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peryx1&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
-</p>
