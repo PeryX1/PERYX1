@@ -10,13 +10,13 @@
         <img src="https://img.shields.io/badge/dewastix.cz-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="dewastix.cz" />
       </a>
       <p><b>Video Producer &amp; Full-Stack Developer</b></p>
-      <p>Editing, color grading &amp; building across the stack.</p>
+      <p>Střih, úprava barev &amp; a následné vydání na instagram.</p>
     </td>
     <td width="50%" align="center">
       <h2>🧭 Skauti Kbely</h2>
       <img src="https://img.shields.io/badge/Lead_Developer-4B8B3B?style=for-the-badge&logo=git&logoColor=white" alt="Lead Developer" />
       <p><b>Lead Developer</b></p>
-      <p>Leading development for the troop's projects.</p>
+      <p>Spravuji a vytvářím různé projekty pro oddíl.</p>
     </td>
   </tr>
 </table>
@@ -40,6 +40,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DEWASTIX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEWASTIX&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=peryx1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peryx1&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
 </p>
