@@ -33,5 +33,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/Skript-EF4A25?style=for-the-badge&logo=spigotmc&logoColor=white" alt="SkriptLang" />
+  <img src="https://img.shields.io/badge/Skript-EF4A25?style=for-the-badge&logo=spigotmc&logoColor=white" alt="SkriptLang" /> &nbsp;
+  <img src="https://img.shields.io/badge/ADS--B-002F5D?style=for-the-badge&logo=flightaware&logoColor=white" alt="ADS-B" />
 </p>
